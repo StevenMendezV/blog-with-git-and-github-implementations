@@ -28,7 +28,7 @@ En él se puede encontrar:
 git remote add friend inLinkedIn
 ```
 
-[Add me](https://stevenmendezv.github.io/Blogpost.github.io/blogpost.html)
+[Add me](https://www.linkedin.com/in/steven-mendez-velandia-8504b5226/)
 
 
 
