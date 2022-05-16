@@ -19,7 +19,7 @@ En él se puede encontrar:
 > "En el presente blog me he centrado en profundizar todos los aspectos esenciales en el manejo de GIt y GITHUB de manera profesional reconociendo su importancia en la industria del desarrollo".
 > - Steven Mendez
 
-> "Cuando requiero saber si existe algún comando que me ayude con mi código en el manejo de versiones, le pregunto a Steven y si no sabe busco en internet, pero primero le pregunto a Steven."
+> "Cuando requiero saber si existe algún comando que me ayude con mi código en el manejo de versiones, le pregunto a Steven, y si él no sabe lo busco en internet, pero primero le pregunto a Steven."
 > - Cristian Hernandez, Software Developer
 
 **<center>Agradezco tu visualización</center>**
