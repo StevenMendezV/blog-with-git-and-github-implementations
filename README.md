@@ -1,5 +1,5 @@
 # Blogpost
-![label](etiqueta.png)
+![label](https://i.imgur.com/W856jIv.png)
 
 Los directorios y archivos que en el presente repositorio se encuentran, hacen parte de un blog estructurado con el conocimiento básico/profesional de los comandos e interacciones entre GIT  y GITHUB.
 
