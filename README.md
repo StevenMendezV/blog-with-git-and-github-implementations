@@ -9,7 +9,7 @@ En él se puede encontrar:
 - **Manejo y control capacitado sobre el versionado en archivos.**
 - Organización de carpetas. 
 - Implementación de comandos en un flujo de trabajo real.
-- **División de tareas basado en un flujo de trabajo semi profesional.**
+- **Implementación de estrategias por ramas en el flujo semiprofesional del desarrollo de la morfología en un proyecto**
 - Merges entre ramas.
 - Manejo adecuado de [PULL REQUEST](https://github.com/StevenMendezV/Blogpost.github.io/pulse).
 - Apoyo de colaboradores.
